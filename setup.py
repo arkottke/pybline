@@ -18,6 +18,7 @@ setup(
     install_requires=[
         'numpy',
         'numba',
+        'pyrotd',
         'setuptools',
     ],
     test_suite='tests',
