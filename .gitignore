@@ -105,3 +105,6 @@ venv.bak/
 
 # vim 
 tags
+
+# PyCharm directory
+.idea/
