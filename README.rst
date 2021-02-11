@@ -15,7 +15,7 @@ Screenshots
 Loading a motion.
 
 .. image:: docs/graphics/screenshots-1.png
-   :width: 600
+   :width: 400
    :alt: Example of loading dialog
 
 Two steps of base line correction.
