@@ -9,6 +9,22 @@ Information on the installation and usage can be found in the documentation_.
 
 .. _documentation: https://pybline.readthedocs.io/
 
+Screenshots
+-----------
+
+Loading a motion.
+
+.. image:: docs/graphics/screenshots-1.png
+   :width: 600
+   :alt: Example of loading dialog
+
+Two steps of base line correction.
+
+.. image:: docs/graphics/screenshots-2.png
+   :width: 600
+   :alt: Example of base line correction
+
+
 Citation
 --------
 
