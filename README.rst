@@ -1,5 +1,5 @@
-pyRVT
-=====
+pybline
+=======
 
 |PyPi Cheese Shop| |Documentation| |Build Status| |Code Quality| |Test Coverage| |License| |DOI|
 
@@ -36,8 +36,8 @@ Please cite this software using the DOI_.
    :target: https://img.shields.io/pypi/v/pybline.svg
 .. |Documentation| image:: https://readthedocs.org/projects/pybline/badge/?version=latest
     :target: https://pybline.readthedocs.io/?badge=latest
-.. |Build Status| image:: https://travis-ci.org/arkottke/pybline.svg?branch=master
-   :target: https://travis-ci.org/arkottke/pybline
+.. |Build Status| image:: https://travis-ci.com/arkottke/pybline.svg?branch=master
+   :target: https://travis-ci.com/arkottke/pybline
 .. |Code Quality| image:: https://api.codacy.com/project/badge/Grade/e7764f37169a434b8e0d68dfcb37e887    
    :target: https://www.codacy.com/manual/arkottke/pybline
 .. |Test Coverage| image:: https://api.codacy.com/project/badge/Coverage/e7764f37169a434b8e0d68dfcb37e887    
