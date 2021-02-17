@@ -43,5 +43,5 @@ Please cite this software using the DOI_.
 .. |Test Coverage| image:: https://api.codacy.com/project/badge/Coverage/e7764f37169a434b8e0d68dfcb37e887    
    :target: https://www.codacy.com/manual/arkottke/pybline
 .. |License| image:: https://img.shields.io/badge/license-MIT-blue.svg
-.. |DOI| image:: https://zenodo.org/badge/5086299.svg
-   :target: https://zenodo.org/badge/latestdoi/5086299
+.. |DOI| image:: https://zenodo.org/badge/142626350.svg
+   :target: https://zenodo.org/badge/latestdoi/142626350
