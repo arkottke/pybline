@@ -1,7 +1,11 @@
 language: python
 cache: pip
 python:
+  - '3.7'
   - '3.8'
+# Add a framebuffer for testing Qt
+services:
+  - xvfb
 install:
   - pip install -r requirements_dev.txt
   - python setup.py install
