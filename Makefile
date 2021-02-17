@@ -50,7 +50,7 @@ lint:
 	pydocstyle pybline/*.py
 
 test:
-	py.test --flake8 --cov-report html --cov=pybline tests/
+	py.test --flake8 --no-qt-log --cov-report html --cov=pybline tests/
 
 coverage:
 	coverage run --source pybline setup.py tests
