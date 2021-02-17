@@ -6,6 +6,13 @@ python:
 # Add a framebuffer for testing Qt
 services:
   - xvfb
+# Install x11-utils for Qt
+addons:
+  apt:
+    packages:
+    - x11-utils
+    - libxkbcommon-x11-0
+
 install:
   - pip install -r requirements_dev.txt
   - python setup.py install
