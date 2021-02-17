@@ -8,13 +8,14 @@ from pkg_resources import get_distribution
 
 from scipy import constants
 
+# Gravity in cm/sec/sec
+# Used by modules of the package
+GRAV = constants.g / constants.centi
+
 from . import (
     models,
     tools
 )
-
-# Gravity in cm/sec/sec
-GRAV = constants.g / constants.centi
 
 
 __author__ = 'Albert Kottke'
